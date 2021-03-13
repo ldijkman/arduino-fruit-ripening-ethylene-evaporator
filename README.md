@@ -21,6 +21,8 @@ can be so much better = reservoir, valve , heating reservoir element for evapora
 
 let arduino handle temperature, valve, time, duration, etc. and messages
 
+add a arduino (wifi) ethylene ppm sensor for turning generator on/off
+
 https://www.catalyticgenerators.com/how-to-use-the-generator/
 
 
