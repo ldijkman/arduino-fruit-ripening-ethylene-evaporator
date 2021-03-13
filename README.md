@@ -18,3 +18,8 @@ because they do not give any information via an LCD display in case something is
 can be so much better = reservoir, valve , heating reservoir element for evaporation, temperature sensors, error status light
 
 https://www.catalyticgenerators.com/how-to-use-the-generator/
+
+
+----
+
+the seller should let you know if it is artificial ripened
