@@ -27,3 +27,9 @@ https://www.catalyticgenerators.com/how-to-use-the-generator/
 ----
 
 the seller / supermarket should let you know if it is artificial ripened
+
+
+##
+# !!! DANGER !!!
+# GENERATOR CREATES ETHYLENE (C2H4).
+# ETHYLENE IS EXPLOSIVE AT 27,000 PPM. 
