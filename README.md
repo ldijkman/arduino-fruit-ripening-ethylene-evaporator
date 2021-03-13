@@ -17,6 +17,8 @@ because they do not give any information via an LCD display in case something is
 
 can be so much better = reservoir, valve , heating reservoir element for evaporation, temperature sensors, error status light
 
+let aduino handle temp, time, duration and messages
+
 https://www.catalyticgenerators.com/how-to-use-the-generator/
 
 
